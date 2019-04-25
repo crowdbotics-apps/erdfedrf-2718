@@ -1,0 +1,3 @@
+rootProject.name = 'erdfedrf_2718'
+
+include ':app'
